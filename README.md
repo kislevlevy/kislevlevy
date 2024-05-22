@@ -1,6 +1,6 @@
 # Kislev Levy - _Junior Full Stack Developer_
 
-## 📫 How to Reach Me
+## 📫 How to Reach Me?
 
 [![Twitter](https://img.shields.io/badge/Twitter-_?logo=twitter&style=for-the-badge&labelColor=1973e8&logoColor=white&color=71797E)](https://x.com/KislevLevy) &nbsp;
 [![Reddit](https://img.shields.io/badge/Reddit-_?logo=reddit&style=for-the-badge&labelColor=ff4501&logoColor=white&color=71797E)](https://www.reddit.com/user/kislev-levy/) &nbsp;
@@ -31,7 +31,7 @@ Hello there! I'm Kislev Levy, a passionate Junior Full Stack Developer with a kn
 
 ---
 
-## 🛠️ Toolbox
+## 🛠️ My Toolbox
 
 ### Front-End Development:
 
