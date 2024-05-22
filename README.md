@@ -5,7 +5,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-_?logo=twitter&style=for-the-badge&labelColor=1973e8&logoColor=white&color=71797E)](https://x.com/KislevLevy) &nbsp;
 [![Reddit](https://img.shields.io/badge/Reddit-_?logo=reddit&style=for-the-badge&labelColor=ff4501&logoColor=white&color=71797E)](https://www.reddit.com/user/kislev-levy/) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-_?logo=linkedin&style=for-the-badge&labelColor=1973e8&logoColor=white&color=71797E)](https://www.linkedin.com/in/kislevlevy/) &nbsp;
-[![Email](https://img.shields.io/badge/Gmail-_?logo=gmail&style=for-the-badge&labelColor=white&color=71797E)](mailto:kislev.levy@gmail.com) &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-_?logo=google-chrome&style=for-the-badge&labelColor=3880f0&logoColor=white&color=71797E)](https://www.kislev.me/)
 
 ---
