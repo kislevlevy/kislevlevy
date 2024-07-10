@@ -1,6 +1,6 @@
 # Kislev Levy - _Junior Full Stack Developer_
 ## 📫 How to Reach Me?
-[![Twitter](https://img.shields.io/badge/Twitter-_?logo=x&style=for-the-badge&labelColor=1973e8&logoColor=white&color=71797E)](https://x.com/KislevLevy) &nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-_?logo=x&style=for-the-badge&labelColor=black&logoColor=white&color=71797E)](https://x.com/KislevLevy) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-_?logo=linkedin&style=for-the-badge&labelColor=1973e8&logoColor=white&color=71797E)](https://www.linkedin.com/in/kislevlevy/) &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-_?logo=google-chrome&style=for-the-badge&labelColor=3880f0&logoColor=white&color=71797E)](https://www.kislev.me/)&nbsp;
 [![Reddit](https://img.shields.io/badge/Reddit-_?logo=reddit&style=for-the-badge&labelColor=ff4501&logoColor=white&color=71797E)](https://www.reddit.com/user/kislev-levy/)
@@ -9,13 +9,13 @@
 Hello there! I'm Kislev Levy, a passionate Junior Full Stack Developer with a knack for crafting dynamic and intuitive web applications. My journey in programming began with a love for creating visually stunning front-end experiences, which naturally evolved into exploring the depths of back-end development to bring robust functionality to my projects. I thrive on challenges and am always eager to learn new technologies and methodologies to enhance my skills and deliver exceptional user experiences.
 
 ## 🔭 Currently Working On
-- Plex-Netflix API for seamless integration between the two platforms - mid development stage.
-- Chat GPT API application to manage university students exams, practice, and assignments - pre planning stage.
+- Plex-Netflix API for seamless integration between the two platforms - mid-development stage.
+- Chat GPT API application to manage university student's exams, practice, and assignments - planning stage.
 
 ## 🌱 Currently Learning
-- Node.js, Express, and MongoDB Udemy course by, Jonas Schmedtmann ([CodingHeroes](https://codingheroes.io/)).
-- React, Next.js, and Redux Udemy course by, Jonas Schmedtmann ([CodingHeroes](https://codingheroes.io/)).
-- Fullstack development bootcamp at Elvation College in Tel Aviv, Israel.
+- Node.js, Express, and MongoDB Udemy course by Jonas Schmedtmann ([CodingHeroes](https://codingheroes.io/)).
+- React, Next.js, and Redux Udemy course by Jonas Schmedtmann ([CodingHeroes](https://codingheroes.io/)).
+- Fullstack development boot camp at Elvation College in Tel Aviv, Israel.
 
 ## 🛠️ My Toolbox
 ### Front-End Development:
