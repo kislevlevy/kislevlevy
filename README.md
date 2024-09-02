@@ -15,36 +15,12 @@ Hello there! I'm Kislev Levy, a passionate Junior Full Stack Developer with a kn
 ## 🌱 Currently Learning
 - Node.js, Express, and MongoDB Udemy course by Jonas Schmedtmann ([CodingHeroes](https://codingheroes.io/)).
 - React, Next.js, and Redux Udemy course by Jonas Schmedtmann ([CodingHeroes](https://codingheroes.io/)).
-- Fullstack development boot camp at Elvation College in Tel Aviv, Israel.
+- Fullstack development bootcamp at Elvation College in Tel Aviv, Israel.
 
 ## 🛠️ My Toolbox
-### Front-End Development:
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=f7e02a&color=white)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=397cc8&color=white)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=2d53e4&color=white)
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=dd4b24&color=white)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=712cf9&color=white)
-- ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=d06a9d&color=white)
-
-### Back-End Development & Frameworks:
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=68a063&color=white)
-- ![Express](https://img.shields.io/badge/Express-339933?logo=express&logoColor=black&color=white)
-- ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=c53735&color=white)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=black&color=white)
-
-### Databases:
-- ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=black&color=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=10638a&color=white)
-- ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=black&color=white)
-
-### Tools and Platforms:
-- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=f1573a&color=white)
-- ![WebSocket](https://img.shields.io/badge/WebSocket-000000?logo=Cloudflare&logoColor=yellow&color=white)
-- ![Parcel](https://img.shields.io/badge/Parcel-BD77FF?logo=dropbox&logoColor=c4946a&color=white)
-- ![REST API](https://img.shields.io/badge/REST%20API-005571?logo=googlecloud&logoColor=blue&color=white)
-- ![Markdown](https://img.shields.io/badge/Markdown-0078d7?logo=markdown&logoColor=black&color=white)
-- ![ESLint](https://img.shields.io/badge/ESLint-0078d7?logo=eslint&logoColor=4930bd&color=white)
-- ![Prettier](https://img.shields.io/badge/Prettier-0078d7?logo=prettier&logoColor=f8bc45&color=white)
+|FRONTEND|TECHNOLOGIES & MORE|BACKEND|
+|:-:|:-:|:-:|
+| ![](https://img.shields.io/badge/React-F7DF1E?logo=react&logoColor=5fd3f3&color=white) ![](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=black&color=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=f7e02a&color=white) ![](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=712cf9&color=white) ![](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=2d53e4&color=white) ![](https://img.shields.io/badge/Tailwind-F7DF1E?logo=TailwindCSS&logoColor=7cd1fa&color=white) ![](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=dd4b24&color=white) ![](https://img.shields.io/badge/Redux-F7DF1E?logo=Redux&logoColor=7a51be&color=white) ![](https://img.shields.io/badge/React_Native-F7DF1E?logo=react&logoColor=5fd3f3&color=white) | ![](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=c53735&color=white) ![](https://img.shields.io/badge/Parcel-BD77FF?logo=dropbox&logoColor=c4946a&color=white) ![](https://img.shields.io/badge/Cloudinary-F7DF1E?logo=Cloudinary&logoColor=394ec7&color=white) ![](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=black&color=white) ![](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=f1573a&color=white) ![](https://img.shields.io/badge/TensorFlow-F05032?logo=TensorFlow&logoColor=ff8a15&color=white) ![](https://img.shields.io/badge/Adobe_CC-F05032?logo=adobe&logoColor=da2b2e&color=white) | ![](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=68a063&color=white) ![](https://img.shields.io/badge/Express-339933?logo=express&logoColor=black&color=white) ![](https://img.shields.io/badge/MongoDB-F7DF1E?logo=mongodb&logoColor=108e4c&color=white) ![](https://img.shields.io/badge/Mongoose-F7DF1E?logo=mongoose&logoColor=880000&color=white) ![](https://img.shields.io/badge/Firebase-F7DF1E?logo=Firebase&logoColor=fe9417&color=white) ![](https://img.shields.io/badge/Pug-F7DF1E?logo=pug&logoColor=53322b&color=white) ![](https://img.shields.io/badge/Amazon_AWS-F7DF1E?logo=amazon&logoColor=2a3744&color=white) ![](https://img.shields.io/badge/Google_Cloud-F7DF1E?logo=google-cloud&logoColor=4285f4&color=white) |
 
 ## 💬 Ask Me About
 My Discord clone project
