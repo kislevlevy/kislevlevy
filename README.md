@@ -11,11 +11,6 @@
 
 Hello there! I'm Kislev Levy, a passionate Full Stack Developer with a knack for crafting dynamic and intuitive web applications. My journey in programming began with a love for creating visually stunning front-end experiences, which naturally evolved into exploring the depths of back-end development to bring robust functionality to my projects. I thrive on challenges and am always eager to learn new technologies and methodologies to enhance my skills and deliver exceptional user experiences.
 
-## 🔭 Currently Working On
-
-- Plex-Netflix API for seamless integration between the two platforms - mid-development stage.
-- ChatGPT API application to manage university student's exams, practice, and assignments - planning stage.
-
 ## 🌱 Currently Learning
 
 React, Next.js, and Redux Udemy course by Jonas Schmedtmann ([CodingHeroes](https://codingheroes.io/)).
