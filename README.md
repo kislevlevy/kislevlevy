@@ -4,7 +4,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-_?logo=x&style=for-the-badge&labelColor=black&logoColor=white&color=71797E)](https://x.com/KislevLevy) &nbsp;
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-_?logo=linkedin-white&style=for-the-badge&labelColor=1973e8&logoColor=white&color=71797E)](https://www.linkedin.com/in/kislevlevy) &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-_?logo=google-chrome&style=for-the-badge&labelColor=3880f0&logoColor=white&color=71797E)](https://www.kislev.me)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-_?logo=google-chrome&style=for-the-badge&labelColor=3880f0&logoColor=white&color=71797E)](https://kislevlevy.github.io/master-portfolio)&nbsp;
 [![Reddit](https://img.shields.io/badge/Reddit-_?logo=reddit&style=for-the-badge&labelColor=ff4501&logoColor=white&color=71797E)](https://www.reddit.com/user/kislev-levy)
 
 ## 🚀 About Me
